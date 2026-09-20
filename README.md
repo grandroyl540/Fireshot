@@ -223,4 +223,4 @@ FireShot is offered as a full free version, with all features and updates includ
 Unlock the full potential of your browsing experience! Download FireShot today and start capturing your favorite web pages effortlessly!
 
 ---
-**Last updated:** 2026-09-20 10:49:29 UTC
+**Last updated:** 2026-09-20 14:33:56 UTC
